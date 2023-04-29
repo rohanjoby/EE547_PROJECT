@@ -1,0 +1,2 @@
+common between apis: title, descripition, content, published at, url, url to image
+declare a dictionary of articles and parse through them and comb through all common elements and put them into a new dictionary 
